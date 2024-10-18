@@ -23,6 +23,20 @@ sudo chmod -R 760 /Examenes-UTN/alumno_2
 sudo chmod -R 700 /Examenes-UTN/alumno_3
 sudo chmod -R 755 /Examenes-UTN/profesores
 
+whoami > validar.txt
+cat validar.txt
+whoami > Examenes-UTN/alumnos1/ alumnos2/ alumnos3/
+whoami > Examenes-UTN/alumnos1/validar.txt
+cd Examenes-UTN/
+cd alumnos1
+whoami > Examenes-UTN/alumnos2/validar.txt
+cd parcial1/
+AySO-Parcial1-BraianTorres/
+cd AySO-Parcial1-BraianTorres/
+whoami > Examenes-UTN/alumnos2/validar.txt
+whoami > Examenes-UTN/alumnos3/validar.txt
+whoami > Examenes-UTN/profesores/validar.txt
+
 
 
 
