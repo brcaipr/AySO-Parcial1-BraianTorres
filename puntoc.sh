@@ -17,3 +17,16 @@ id devops1
 sudo usermod -aG grupodevelopers devops1
 sudo usermod -aG grupodevops devops2
 id devops2
+
+sudo chmod -R 750 /Examenes-UTN/alumno_1
+sudo chmod -R 760 /Examenes-UTN/alumno_2
+sudo chmod -R 700 /Examenes-UTN/alumno_3
+sudo chmod -R 755 /Examenes-UTN/profesores
+
+
+
+
+
+
+
+
